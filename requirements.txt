@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+tensorflow	      # For Windows 
+tensorflow-macos      # For M1/M2 Mac (Autoencoder)
+tensorflow-metal      # Optional GPU support for Mac
+matplotlib-venn       # For model comparison Venn
+
