@@ -31,7 +31,7 @@ anomaly-detection-edr-project/
 │   └── streamlit_dashboard.py                  # Streamlit dashboard app
 ├── README.md                                   # Project description + usage
 ├── requirements.txt                            # Required Python packages
-└── .gitignore                                  # (Optional) Ignore /venv, .DS_Store, etc.
+└── .gitignore                                  # Ignore __pycache__/, .DS_Store, etc.
 ```
 
 ## For Dr. Abdul Shahid (Professor for AI/ML in Cybersecurity)
